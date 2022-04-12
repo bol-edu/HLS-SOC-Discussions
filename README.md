@@ -1,4 +1,4 @@
-<h1 align="center">HLS-Discussion</h1>
+<h1 align="center">HLS-Discussions</h1>
 
 <h3 align="center">Discussion Forum for High-Level Synthesis (HLS) Courses in Taiwan.</h3>
 
@@ -14,9 +14,9 @@ This repository is created as a discussion forum for High-Level Synthesis (HLS) 
 
 ## General HLS Discussion
 
-For general topics of HLS (e.g., lecture contents, project implementation problems), please use the [Discussion Forum](https://github.com/bol-edu/HLS-Discussion/discussions) of this repository directly.
+For general topics of HLS (e.g., lecture contents, project implementation problems), please use the [Discussions](https://github.com/bol-edu/HLS-Discussions/discussions) of this repository directly.
 
-一般HLS相關議題 (例如：課程內容、專案實作遇到的問題)，請直接使用此儲存庫的[討論區](https://github.com/bol-edu/HLS-Discussion/discussions)進行討論。
+一般HLS相關議題 (例如：課程內容、專案實作遇到的問題)，請直接使用此儲存庫的[討論區](https://github.com/bol-edu/HLS-Discussions/discussions)進行討論。
 
 
 
