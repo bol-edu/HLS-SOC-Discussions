@@ -27,6 +27,9 @@ For the labs listed below, please go to the repository of the lab and use the di
 以下列出的實驗，請移至該實驗儲存庫的討論區進行討論。
 
 * FINN (From AI to Gate) - [course-lab_finn](https://github.com/bol-edu/course-lab_finn/discussions)
+* RISC-V (Comet Lab) - [course-lab_riscv](https://github.com/bol-edu/course-lab_riscv/discussions)
+* Accelerated Algorithmic Trading - [course-lab_aat](https://github.com/bol-edu/course-lab_aat/discussions)
+* PYNQ Composable Pipeline & Partial Programming - [course-lab_pynq-cp-pr](https://github.com/bol-edu/course-lab_pynq-cp-pr/discussions)
 
 
 
