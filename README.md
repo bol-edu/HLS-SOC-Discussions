@@ -31,15 +31,15 @@ For the labs listed below, please go to the repository of the lab and use the di
 * Accelerated Algorithmic Trading - [course-lab_aat](https://github.com/bol-edu/course-lab_aat/discussions)
 * PYNQ Composable Pipeline & Partial Programming - [course-lab_pynq-cp-pr](https://github.com/bol-edu/course-lab_pynq-cp-pr/discussions)
 
-## Vitis Opencv Lab Setup
+## Vitis OpenCV Lab Setup
 
-使用u50進行Vitis Opencv實驗的設置為
-* u50_01: OPENCV_INCLUDE=/usr/include/opencv4/, OPENCV_LIB=/usr/lib/x86_64-linux-gnu/
-* u50_02: OPENCV_INCLUDE=/usr/include/opencv4/, OPENCV_LIB=/usr/lib/x86_64-linux-gnu/
-* u50_03: OPENCV_INCLUDE=/usr/local/include/opencv4/, OPENCV_LIB=/usr/lib/x86_64-linux-gnu/
-* u50_04: OPENCV_INCLUDE=/usr/include/opencv4/, OPENCV_LIB=/usr/lib/x86_64-linux-gnu/
-* u50_05: OPENCV_INCLUDE=/usr/local/include/opencv4/, OPENCV_LIB=/usr/lib/x86_64-linux-gnu/
-* 相關討論: https://github.com/bol-edu/HLS-Discussions/discussions/43
+使用u50進行Vitis OpenCV實驗的設置為
+* u50_01: OPENCV_INCLUDE = /usr/include/opencv4/, OPENCV_LIB = /usr/lib/x86_64-linux-gnu/
+* u50_02: OPENCV_INCLUDE = /usr/include/opencv4/, OPENCV_LIB = /usr/lib/x86_64-linux-gnu/
+* u50_03: OPENCV_INCLUDE = /usr/local/include/opencv4/, OPENCV_LIB = /usr/lib/x86_64-linux-gnu/
+* u50_04: OPENCV_INCLUDE = /usr/include/opencv4/, OPENCV_LIB = /usr/lib/x86_64-linux-gnu/
+* u50_05: OPENCV_INCLUDE = /usr/local/include/opencv4/, OPENCV_LIB = /usr/lib/x86_64-linux-gnu/
+* 設置問題討論: https://github.com/bol-edu/HLS-Discussions/discussions/43
 
 ## How to Subscribe
 
