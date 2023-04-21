@@ -31,7 +31,7 @@ For the labs listed below, please go to the repository of the lab and use the di
 * Accelerated Algorithmic Trading - [course-lab_aat](https://github.com/bol-edu/course-lab_aat/discussions)
 * PYNQ Composable Pipeline & Partial Programming - [course-lab_pynq-cp-pr](https://github.com/bol-edu/course-lab_pynq-cp-pr/discussions)
 
-## Vitis Opencv Lab 設置
+## Vitis Opencv Lab Setup
 
 使用u50進行Vitis Opencv實驗的設置為
 * u50_01: OPENCV_INCLUDE=/usr/include/opencv4/, OPENCV_LIB=/usr/lib/x86_64-linux-gnu/
